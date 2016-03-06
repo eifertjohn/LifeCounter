@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnIncreaseLife">+</string>
+    <string name="btnDecreaseLife">-</string>
+    <string name="btnNewGame">New Game</string>
+    <string name="defaultName">Name</string>
+</resources>
