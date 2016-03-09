@@ -5,4 +5,5 @@
     <string name="btnDecreaseLife">-</string>
     <string name="btnNewGame">New Game</string>
     <string name="defaultName">Name</string>
+    <string name="txtNameHint">Enter Name</string>
 </resources>

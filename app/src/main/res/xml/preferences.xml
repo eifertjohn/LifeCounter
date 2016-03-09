@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="pref_player1_name"
+        android:persistent="true"/>
+    <Preference
+        android:key="pref_player2_name"
+        android:persistent="true"
+        />
+    <Preference
+        android:key="pref_life_total"
+        android:persistent="true"
+        android:defaultValue="20"/>
+
+
+</PreferenceScreen>

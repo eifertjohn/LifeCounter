@@ -99,13 +99,14 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
         android:text="@string/defaultName"
         android:ems="10"
         android:id="@+id/editText2"
         android:gravity="right"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/checkBox2"
-        android:layout_toEndOf="@+id/checkBox2" />
+        android:layout_toEndOf="@+id/checkBox2"
+        android:inputType="textPersonName"
+        android:hint="@string/txtNameHint" />
 
 </RelativeLayout>
